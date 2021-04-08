@@ -1,0 +1,3 @@
+#ARQUIVOS PHP(enviar.php & enviar-sendgrid.php) SÃO DUAS DIFERENTES FORMAS DE SE ENVIAR DADOS DE FORMULÁRIOS PARA E-MAILS DE ESCOLHA;
+-------------------------------------------------------------------------------------------------------------------------------------
+#PHPMailer e SendGrid são dois plugins para envios de formulários;
